@@ -6,3 +6,6 @@
 .vscode/launch.json
 .vscode/ipch
 compile_commands.json
+
+# Do not publish home network credentials
+include/secrets.h
